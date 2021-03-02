@@ -5,7 +5,7 @@ Every human makes mistakes, as it is said “To err is human”. But it’s actu
 
 ## Error Reporting
 
-To report any error, kindly contact on email : chandan.taluja@gmail.com 
+To report any error, kindly contact on email : chandanhelpsyou@gmail.com 
 
 ## Authors
 
